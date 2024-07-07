@@ -1,4 +1,4 @@
-# NYC Taxi Machine Learning Project
+# Optimizing Driver Ride-Sharing Services Using NYC Taxi Dataset
 
 ## Introduction
 This project uses the NYC Taxi Trip Duration dataset to demonstrate various machine learning techniques for optimizing ride-sharing services, including capacity planning, driver matching, dynamic pricing, and ETA prediction.
